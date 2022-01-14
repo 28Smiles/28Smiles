@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Leon 👋
+
+### Stats
+
+![](https://github.com/28Smiles/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/28Smiles/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **28Smiles/28Smiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
