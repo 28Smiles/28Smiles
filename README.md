@@ -4,8 +4,10 @@
 
 ### Stats
 
-![](https://github.com/28Smiles/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/28Smiles/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/28Smiles/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/28Smiles/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/28Smiles/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/28Smiles/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **28Smiles/28Smiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
