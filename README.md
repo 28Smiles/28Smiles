@@ -1,5 +1,7 @@
 ### Hi there, I'm Leon 👋
 
+![](https://skillicons.dev/icons?perline=8&theme=dark&i=python,rust,kotlin,scala,java,php,ts,js,go,cpp,c,html,css,nodejs,aws,angular,react,vue,tensorflow,pytorch,docker,postgresql,dynamodb,cassandra)
+
 ### Stats
 
 ![](https://github.com/28Smiles/github-stats/blob/master/generated/overview.svg)
